@@ -1,0 +1,16 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "amazon clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabir Hussain Balal",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}

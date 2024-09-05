@@ -1,0 +1,42 @@
+:root{
+    --ten: 10px;
+    --fill: #666666;
+}
+.flex{
+    display: flex;
+}
+
+.flex_col{
+    flex-direction: column; 
+}
+.gap-20{
+    gap: 20px;
+}
+.gap-10{
+    gap: var(--ten);
+}
+.gap-5{
+    gap: 5px;
+}
+
+.align-item-end{
+    align-items: end;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.align-item-center{
+    align-items: center;
+}
+
+.m2{
+    margin: 2px;
+}
+
+.flex_wrap{
+    flex-wrap: wrap;
+}
+
