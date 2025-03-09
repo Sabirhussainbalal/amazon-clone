@@ -21,12 +21,9 @@ This project is a clone of the Amazon website built using Node.js, Express.js, a
     git clone https://github.com/yourusername/amazon-clone.git
     ```
 
-2. Navigate to the project directory:
-    ```bash
-    cd amazon-clone
-    ```
 
-3. Install the necessary dependencies:
+
+2. Install the necessary dependencies:
     ```bash
     npm install
     ```
